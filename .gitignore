@@ -1,0 +1,11 @@
+# entorno virtual (se regenera con `uv sync`)
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# editores / sistema
+.vscode/
+.idea/
+.DS_Store

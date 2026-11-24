@@ -1,0 +1,8 @@
+step=  40960  sigma=0.772  kl=0.0227  clipfrac=0.250  sps=1903
+step=  81920  sigma=0.440  kl=0.0108  clipfrac=0.109  sps=1954
+step= 122880  sigma=0.359  kl=0.0037  clipfrac=0.093  sps=1968
+step= 163840  sigma=0.345  kl=0.0126  clipfrac=0.067  sps=1976
+step= 204800  sigma=0.311  kl=0.0012  clipfrac=0.089  sps=1980
+step= 245760  sigma=0.290  kl=0.0010  clipfrac=0.030  sps=1983
+step= 286720  sigma=0.282  kl=0.0011  clipfrac=0.010  sps=1985
+Listo en 151s -> runs/ppo_pendulum__s2

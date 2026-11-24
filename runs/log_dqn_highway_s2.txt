@@ -1,0 +1,1095 @@
+step=      4  return=  3.98  len= 5  crashed=1  eps=0.999
+step=     10  return=  4.85  len= 6  crashed=1  eps=0.998
+step=     21  return=  7.97  len=11  crashed=1  eps=0.997
+step=     25  return=  2.98  len= 4  crashed=1  eps=0.996
+step=     41  return= 12.18  len=16  crashed=1  eps=0.994
+step=     54  return=  9.35  len=13  crashed=1  eps=0.991
+step=     66  return=  9.30  len=12  crashed=1  eps=0.990
+step=     96  return= 22.50  len=30  crashed=0  eps=0.985
+step=    112  return= 11.85  len=16  crashed=1  eps=0.982
+step=    119  return=  5.85  len= 7  crashed=1  eps=0.981
+step=    126  return=  5.74  len= 7  crashed=1  eps=0.980
+step=    133  return=  5.12  len= 7  crashed=1  eps=0.979
+step=    149  return= 13.20  len=16  crashed=1  eps=0.976
+step=    156  return=  4.39  len= 7  crashed=1  eps=0.975
+step=    160  return=  2.75  len= 4  crashed=1  eps=0.975
+step=    172  return=  8.77  len=12  crashed=1  eps=0.973
+step=    197  return= 18.68  len=25  crashed=1  eps=0.969
+step=    212  return= 13.61  len=15  crashed=1  eps=0.966
+step=    217  return=  3.75  len= 5  crashed=1  eps=0.966
+step=    220  return=  1.85  len= 3  crashed=1  eps=0.965
+step=    250  return= 20.92  len=30  crashed=0  eps=0.960
+step=    262  return= 10.40  len=12  crashed=1  eps=0.959
+step=    292  return= 23.48  len=30  crashed=0  eps=0.954
+step=    306  return= 10.94  len=14  crashed=1  eps=0.952
+step=    323  return= 13.21  len=17  crashed=1  eps=0.949
+step=    333  return=  6.50  len=10  crashed=1  eps=0.947
+step=    342  return=  8.15  len= 9  crashed=1  eps=0.946
+step=    354  return=  8.93  len=12  crashed=1  eps=0.944
+step=    361  return=  4.59  len= 7  crashed=1  eps=0.943
+step=    364  return=  1.78  len= 3  crashed=1  eps=0.942
+step=    367  return=  1.88  len= 3  crashed=1  eps=0.942
+step=    373  return=  4.28  len= 6  crashed=1  eps=0.941
+step=    379  return=  4.58  len= 6  crashed=1  eps=0.940
+step=    386  return=  5.75  len= 7  crashed=1  eps=0.939
+step=    408  return= 17.46  len=22  crashed=1  eps=0.935
+step=    411  return=  1.85  len= 3  crashed=1  eps=0.935
+step=    416  return=  4.02  len= 5  crashed=1  eps=0.934
+step=    444  return= 21.01  len=28  crashed=1  eps=0.930
+step=    460  return= 14.18  len=16  crashed=1  eps=0.927
+step=    464  return=  2.43  len= 4  crashed=1  eps=0.927
+step=    473  return=  7.21  len= 9  crashed=1  eps=0.925
+step=    480  return=  5.45  len= 7  crashed=1  eps=0.924
+step=    486  return=  4.28  len= 6  crashed=1  eps=0.923
+step=    498  return=  8.67  len=12  crashed=1  eps=0.921
+step=    500  return=  1.20  len= 2  crashed=1  eps=0.921
+step=    509  return=  7.51  len= 9  crashed=1  eps=0.919
+step=    518  return=  6.21  len= 9  crashed=1  eps=0.918
+step=    530  return=  9.95  len=12  crashed=1  eps=0.916
+step=    536  return=  4.91  len= 6  crashed=1  eps=0.915
+step=    540  return=  2.72  len= 4  crashed=1  eps=0.914
+step=    543  return=  1.88  len= 3  crashed=1  eps=0.914
+step=    552  return=  6.68  len= 9  crashed=1  eps=0.913
+step=    567  return= 11.88  len=15  crashed=1  eps=0.910
+step=    578  return=  7.88  len=11  crashed=1  eps=0.908
+step=    585  return=  5.68  len= 7  crashed=1  eps=0.907
+step=    605  return= 14.25  len=20  crashed=1  eps=0.904
+step=    608  return=  1.92  len= 3  crashed=1  eps=0.904
+step=    615  return=  4.69  len= 7  crashed=1  eps=0.903
+step=    620  return=  3.28  len= 5  crashed=1  eps=0.902
+step=    627  return=  4.42  len= 7  crashed=1  eps=0.901
+step=    631  return=  2.98  len= 4  crashed=1  eps=0.900
+step=    636  return=  3.33  len= 5  crashed=1  eps=0.899
+step=    642  return=  3.65  len= 6  crashed=1  eps=0.898
+step=    672  return= 21.42  len=30  crashed=0  eps=0.894
+step=    678  return=  4.10  len= 6  crashed=1  eps=0.893
+step=    690  return=  9.61  len=12  crashed=1  eps=0.891
+step=    699  return=  6.65  len= 9  crashed=1  eps=0.889
+step=    705  return=  4.67  len= 6  crashed=1  eps=0.888
+step=    722  return= 12.76  len=17  crashed=1  eps=0.886
+step=    729  return=  4.92  len= 7  crashed=1  eps=0.885
+step=    740  return=  7.73  len=11  crashed=1  eps=0.883
+step=    746  return=  3.83  len= 6  crashed=1  eps=0.882
+step=    749  return=  1.88  len= 3  crashed=1  eps=0.881
+step=    770  return= 15.64  len=21  crashed=1  eps=0.878
+step=    773  return=  1.92  len= 3  crashed=1  eps=0.878
+step=    781  return=  5.97  len= 8  crashed=1  eps=0.876
+step=    786  return=  3.71  len= 5  crashed=1  eps=0.876
+step=    797  return=  9.81  len=11  crashed=1  eps=0.874
+step=    817  return= 16.98  len=20  crashed=1  eps=0.871
+step=    827  return=  8.35  len=10  crashed=1  eps=0.869
+step=    850  return= 18.62  len=23  crashed=1  eps=0.865
+step=    860  return=  7.56  len=10  crashed=1  eps=0.864
+step=    868  return=  6.05  len= 8  crashed=1  eps=0.863
+step=    884  return= 11.95  len=16  crashed=1  eps=0.860
+step=    891  return=  4.85  len= 7  crashed=1  eps=0.859
+step=    903  return=  9.68  len=12  crashed=1  eps=0.857
+step=    907  return=  2.63  len= 4  crashed=1  eps=0.856
+step=    911  return=  2.65  len= 4  crashed=1  eps=0.856
+step=    918  return=  4.87  len= 7  crashed=1  eps=0.855
+step=    948  return= 23.71  len=30  crashed=0  eps=0.850
+step=    956  return=  6.65  len= 8  crashed=1  eps=0.849
+step=    974  return= 12.62  len=18  crashed=1  eps=0.846
+step=    982  return=  6.25  len= 8  crashed=1  eps=0.845
+step=    998  return= 11.38  len=16  crashed=1  eps=0.842
+step=   1003  return=  3.37  len= 5  crashed=1  eps=0.841
+step=   1007  return=  2.67  len= 4  crashed=1  eps=0.841
+step=   1010  return=  1.86  len= 3  crashed=1  eps=0.840
+step=   1028  return= 12.48  len=18  crashed=1  eps=0.837
+step=   1058  return= 22.48  len=30  crashed=0  eps=0.832
+step=   1080  return= 14.95  len=22  crashed=1  eps=0.829
+step=   1094  return= 10.50  len=14  crashed=1  eps=0.827
+step=   1101  return=  5.90  len= 7  crashed=1  eps=0.826
+step=   1116  return= 11.05  len=15  crashed=1  eps=0.823
+step=   1125  return=  7.65  len= 9  crashed=1  eps=0.822
+step=   1133  return=  5.78  len= 8  crashed=1  eps=0.821
+step=   1151  return= 13.51  len=18  crashed=1  eps=0.818
+step=   1155  return=  2.65  len= 4  crashed=1  eps=0.817
+step=   1160  return=  3.56  len= 5  crashed=1  eps=0.816
+step=   1170  return=  8.11  len=10  crashed=1  eps=0.815
+step=   1180  return=  6.90  len=10  crashed=1  eps=0.813
+step=   1188  return=  6.89  len= 8  crashed=1  eps=0.812
+step=   1195  return=  5.09  len= 7  crashed=1  eps=0.811
+step=   1210  return= 12.03  len=15  crashed=1  eps=0.808
+step=   1240  return= 23.77  len=30  crashed=0  eps=0.804
+step=   1270  return= 21.92  len=30  crashed=0  eps=0.799
+step=   1283  return= 10.08  len=13  crashed=1  eps=0.797
+step=   1292  return=  7.65  len= 9  crashed=1  eps=0.795
+step=   1296  return=  2.63  len= 4  crashed=1  eps=0.795
+step=   1300  return=  2.33  len= 4  crashed=1  eps=0.794
+step=   1312  return=  9.52  len=12  crashed=1  eps=0.792
+step=   1342  return= 20.82  len=30  crashed=0  eps=0.788
+step=   1345  return=  1.85  len= 3  crashed=1  eps=0.787
+step=   1350  return=  3.71  len= 5  crashed=1  eps=0.786
+step=   1367  return= 11.70  len=17  crashed=1  eps=0.784
+step=   1374  return=  4.65  len= 7  crashed=1  eps=0.782
+step=   1382  return=  6.06  len= 8  crashed=1  eps=0.781
+step=   1397  return= 12.31  len=15  crashed=1  eps=0.779
+step=   1405  return=  5.52  len= 8  crashed=1  eps=0.778
+step=   1411  return=  4.88  len= 6  crashed=1  eps=0.777
+step=   1414  return=  1.87  len= 3  crashed=1  eps=0.776
+step=   1432  return= 13.30  len=18  crashed=1  eps=0.773
+step=   1462  return= 22.25  len=30  crashed=0  eps=0.769
+step=   1469  return=  5.16  len= 7  crashed=1  eps=0.767
+step=   1477  return=  6.68  len= 8  crashed=1  eps=0.766
+step=   1485  return=  6.00  len= 8  crashed=1  eps=0.765
+step=   1490  return=  3.20  len= 5  crashed=1  eps=0.764
+step=   1510  return= 15.30  len=20  crashed=1  eps=0.761
+step=   1517  return=  5.35  len= 7  crashed=1  eps=0.760
+step=   1526  return=  6.53  len= 9  crashed=1  eps=0.758
+step=   1556  return= 24.11  len=30  crashed=0  eps=0.754
+step=   1559  return=  2.01  len= 3  crashed=1  eps=0.753
+step=   1563  return=  2.57  len= 4  crashed=1  eps=0.753
+step=   1571  return=  5.47  len= 8  crashed=1  eps=0.751
+step=   1577  return=  4.65  len= 6  crashed=1  eps=0.750
+step=   1595  return= 13.99  len=18  crashed=1  eps=0.747
+step=   1606  return=  8.53  len=11  crashed=1  eps=0.746
+step=   1615  return=  6.65  len= 9  crashed=1  eps=0.744
+step=   1623  return=  6.68  len= 8  crashed=1  eps=0.743
+step=   1634  return=  8.75  len=11  crashed=1  eps=0.741
+step=   1637  return=  1.72  len= 3  crashed=1  eps=0.741
+step=   1646  return=  7.60  len= 9  crashed=1  eps=0.739
+step=   1660  return= 11.26  len=14  crashed=1  eps=0.737
+step=   1663  return=  1.83  len= 3  crashed=1  eps=0.737
+step=   1675  return=  8.28  len=12  crashed=1  eps=0.735
+step=   1685  return=  8.67  len=10  crashed=1  eps=0.733
+step=   1695  return=  8.18  len=10  crashed=1  eps=0.732
+step=   1701  return=  4.58  len= 6  crashed=1  eps=0.731
+step=   1704  return=  1.67  len= 3  crashed=1  eps=0.730
+step=   1707  return=  2.01  len= 3  crashed=1  eps=0.730
+step=   1716  return=  8.15  len= 9  crashed=1  eps=0.728
+step=   1746  return= 23.04  len=30  crashed=0  eps=0.724
+step=   1765  return= 16.41  len=19  crashed=1  eps=0.721
+step=   1770  return=  3.43  len= 5  crashed=1  eps=0.720
+step=   1780  return=  7.39  len=10  crashed=1  eps=0.718
+step=   1782  return=  1.21  len= 2  crashed=1  eps=0.718
+step=   1787  return=  3.23  len= 5  crashed=1  eps=0.717
+step=   1794  return=  5.22  len= 7  crashed=1  eps=0.716
+step=   1797  return=  1.85  len= 3  crashed=1  eps=0.715
+step=   1810  return= 10.37  len=13  crashed=1  eps=0.713
+step=   1819  return=  7.56  len= 9  crashed=1  eps=0.712
+step=   1824  return=  3.52  len= 5  crashed=1  eps=0.711
+step=   1838  return=  9.47  len=14  crashed=1  eps=0.709
+step=   1844  return=  4.68  len= 6  crashed=1  eps=0.708
+step=   1854  return=  7.52  len=10  crashed=1  eps=0.706
+step=   1860  return=  4.65  len= 6  crashed=1  eps=0.706
+step=   1866  return=  4.55  len= 6  crashed=1  eps=0.705
+step=   1876  return=  7.70  len=10  crashed=1  eps=0.703
+step=   1887  return=  8.97  len=11  crashed=1  eps=0.701
+step=   1912  return= 22.18  len=25  crashed=1  eps=0.697
+step=   1920  return=  6.25  len= 8  crashed=1  eps=0.696
+step=   1941  return= 15.56  len=21  crashed=1  eps=0.693
+step=   1959  return= 13.35  len=18  crashed=1  eps=0.690
+step=   1963  return=  2.57  len= 4  crashed=1  eps=0.689
+step=   1972  return=  6.48  len= 9  crashed=1  eps=0.688
+step=   1975  return=  2.08  len= 3  crashed=1  eps=0.687
+step=   2003  return= 20.71  len=28  crashed=1  eps=0.683
+step=   2033  return= 21.49  len=30  crashed=0  eps=0.678
+step=   2037  return=  2.43  len= 4  crashed=1  eps=0.677
+step=   2043  return=  4.38  len= 6  crashed=1  eps=0.677
+step=   2061  return= 14.45  len=18  crashed=1  eps=0.674
+step=   2070  return=  7.08  len= 9  crashed=1  eps=0.672
+step=   2085  return= 10.68  len=15  crashed=1  eps=0.670
+step=   2090  return=  3.50  len= 5  crashed=1  eps=0.669
+step=   2109  return= 14.86  len=19  crashed=1  eps=0.666
+step=   2119  return=  8.21  len=10  crashed=1  eps=0.664
+step=   2130  return=  7.85  len=11  crashed=1  eps=0.663
+step=   2133  return=  1.70  len= 3  crashed=1  eps=0.662
+step=   2142  return=  7.70  len= 9  crashed=1  eps=0.661
+step=   2150  return=  6.01  len= 8  crashed=1  eps=0.660
+step=   2180  return= 24.07  len=30  crashed=0  eps=0.655
+step=   2187  return=  4.53  len= 7  crashed=1  eps=0.654
+step=   2200  return=  9.95  len=13  crashed=1  eps=0.652
+step=   2207  return=  4.90  len= 7  crashed=1  eps=0.651
+step=   2237  return= 23.59  len=30  crashed=0  eps=0.646
+step=   2247  return=  6.93  len=10  crashed=1  eps=0.644
+step=   2254  return=  5.58  len= 7  crashed=1  eps=0.643
+step=   2260  return=  4.63  len= 6  crashed=1  eps=0.642
+step=   2269  return=  7.61  len= 9  crashed=1  eps=0.641
+step=   2279  return=  7.48  len=10  crashed=1  eps=0.639
+step=   2287  return=  6.15  len= 8  crashed=1  eps=0.638
+step=   2316  return= 23.69  len=29  crashed=1  eps=0.633
+step=   2346  return= 24.35  len=30  crashed=0  eps=0.629
+step=   2352  return=  4.35  len= 6  crashed=1  eps=0.628
+step=   2382  return= 20.32  len=30  crashed=0  eps=0.623
+step=   2389  return=  4.52  len= 7  crashed=1  eps=0.622
+step=   2415  return= 20.51  len=26  crashed=1  eps=0.618
+step=   2421  return=  3.62  len= 6  crashed=1  eps=0.617
+step=   2427  return=  4.37  len= 6  crashed=1  eps=0.616
+step=   2457  return= 25.03  len=30  crashed=0  eps=0.611
+step=   2463  return=  4.88  len= 6  crashed=1  eps=0.610
+step=   2472  return=  6.75  len= 9  crashed=1  eps=0.609
+step=   2487  return= 11.18  len=15  crashed=1  eps=0.606
+step=   2490  return=  1.77  len= 3  crashed=1  eps=0.606
+step=   2492  return=  1.21  len= 2  crashed=1  eps=0.605
+step=   2500  return=  6.78  len= 8  crashed=1  eps=0.604
+step=   2507  return=  5.25  len= 7  crashed=1  eps=0.603
+step=   2518  return=  9.51  len=11  crashed=1  eps=0.601
+step=   2526  return=  6.62  len= 8  crashed=1  eps=0.600
+step=   2531  return=  3.43  len= 5  crashed=1  eps=0.599
+step=   2561  return= 22.67  len=30  crashed=1  eps=0.595
+step=   2571  return=  7.88  len=10  crashed=1  eps=0.593
+step=   2577  return=  4.91  len= 6  crashed=1  eps=0.592
+step=   2606  return= 23.05  len=29  crashed=1  eps=0.587
+step=   2625  return= 16.78  len=19  crashed=1  eps=0.584
+step=   2655  return= 22.00  len=30  crashed=0  eps=0.580
+step=   2672  return= 13.95  len=17  crashed=1  eps=0.577
+step=   2698  return= 18.91  len=26  crashed=1  eps=0.573
+step=   2728  return= 23.23  len=30  crashed=0  eps=0.568
+step=   2747  return= 13.91  len=19  crashed=1  eps=0.565
+step=   2757  return=  8.61  len=10  crashed=1  eps=0.563
+step=   2782  return= 19.28  len=25  crashed=1  eps=0.560
+step=   2798  return= 13.58  len=16  crashed=1  eps=0.557
+step=   2801  return=  2.06  len= 3  crashed=1  eps=0.557
+step=   2809  return=  6.36  len= 8  crashed=1  eps=0.555
+step=   2826  return= 14.27  len=17  crashed=1  eps=0.553
+step=   2856  return= 22.13  len=30  crashed=0  eps=0.548
+step=   2861  return=  3.38  len= 5  crashed=1  eps=0.547
+step=   2865  return=  2.52  len= 4  crashed=1  eps=0.546
+step=   2869  return=  2.98  len= 4  crashed=1  eps=0.546
+step=   2876  return=  5.23  len= 7  crashed=1  eps=0.545
+step=   2906  return= 23.52  len=30  crashed=0  eps=0.540
+step=   2914  return=  5.93  len= 8  crashed=1  eps=0.539
+step=   2944  return= 20.65  len=30  crashed=0  eps=0.534
+step=   2961  return= 12.43  len=17  crashed=1  eps=0.531
+step=   2989  return= 22.70  len=28  crashed=1  eps=0.527
+step=   3018  return= 20.69  len=29  crashed=1  eps=0.522
+step=   3024  return=  5.15  len= 6  crashed=1  eps=0.521
+step=   3031  return=  5.35  len= 7  crashed=1  eps=0.520
+step=   3034  return=  2.01  len= 3  crashed=1  eps=0.520
+step=   3039  return=  4.01  len= 5  crashed=1  eps=0.519
+step=   3069  return= 24.18  len=30  crashed=0  eps=0.514
+step=   3099  return= 24.21  len=30  crashed=0  eps=0.509
+step=   3104  return=  3.86  len= 5  crashed=1  eps=0.509
+step=   3121  return= 13.49  len=17  crashed=1  eps=0.506
+step=   3151  return= 21.80  len=30  crashed=0  eps=0.501
+step=   3160  return=  5.85  len= 9  crashed=1  eps=0.500
+step=   3173  return= 10.47  len=13  crashed=1  eps=0.498
+step=   3198  return= 16.62  len=25  crashed=1  eps=0.494
+step=   3202  return=  2.68  len= 4  crashed=1  eps=0.493
+step=   3231  return= 21.25  len=29  crashed=1  eps=0.488
+step=   3261  return= 23.24  len=30  crashed=0  eps=0.484
+step=   3285  return= 16.12  len=24  crashed=1  eps=0.480
+step=   3288  return=  1.67  len= 3  crashed=1  eps=0.479
+step=   3308  return= 15.04  len=20  crashed=1  eps=0.476
+step=   3328  return= 14.38  len=20  crashed=1  eps=0.473
+step=   3343  return= 12.74  len=15  crashed=1  eps=0.471
+step=   3373  return= 20.92  len=30  crashed=0  eps=0.466
+step=   3385  return= 10.70  len=12  crashed=1  eps=0.464
+step=   3393  return=  5.70  len= 8  crashed=1  eps=0.463
+step=   3401  return=  6.43  len= 8  crashed=1  eps=0.462
+step=   3405  return=  2.66  len= 4  crashed=1  eps=0.461
+step=   3422  return= 14.01  len=17  crashed=1  eps=0.458
+step=   3430  return=  6.71  len= 8  crashed=1  eps=0.457
+step=   3443  return= 11.28  len=13  crashed=1  eps=0.455
+step=   3473  return= 22.22  len=30  crashed=0  eps=0.450
+step=   3476  return=  2.02  len= 3  crashed=1  eps=0.450
+step=   3484  return=  7.01  len= 8  crashed=1  eps=0.448
+step=   3514  return= 24.35  len=30  crashed=0  eps=0.444
+step=   3520  return=  4.58  len= 6  crashed=1  eps=0.443
+step=   3527  return=  5.38  len= 7  crashed=1  eps=0.442
+step=   3557  return= 21.43  len=30  crashed=0  eps=0.437
+step=   3564  return=  5.07  len= 7  crashed=1  eps=0.436
+step=   3589  return= 18.38  len=25  crashed=1  eps=0.432
+step=   3609  return= 15.33  len=20  crashed=1  eps=0.429
+step=   3621  return=  9.31  len=12  crashed=1  eps=0.427
+step=   3632  return=  9.31  len=11  crashed=1  eps=0.425
+step=   3635  return=  2.18  len= 3  crashed=1  eps=0.424
+step=   3653  return= 13.11  len=18  crashed=1  eps=0.422
+step=   3663  return=  7.77  len=10  crashed=1  eps=0.420
+step=   3672  return=  7.21  len= 9  crashed=1  eps=0.419
+step=   3690  return= 14.95  len=18  crashed=1  eps=0.416
+step=   3696  return=  4.37  len= 6  crashed=1  eps=0.415
+step=   3699  return=  1.88  len= 3  crashed=1  eps=0.414
+step=   3710  return=  9.71  len=11  crashed=1  eps=0.413
+step=   3714  return=  2.50  len= 4  crashed=1  eps=0.412
+step=   3727  return=  8.80  len=13  crashed=1  eps=0.410
+step=   3757  return= 24.55  len=30  crashed=0  eps=0.405
+step=   3787  return= 22.38  len=30  crashed=0  eps=0.400
+step=   3798  return=  9.45  len=11  crashed=1  eps=0.399
+step=   3803  return=  3.75  len= 5  crashed=1  eps=0.398
+step=   3816  return= 10.43  len=13  crashed=1  eps=0.396
+step=   3822  return=  5.21  len= 6  crashed=1  eps=0.395
+step=   3832  return=  8.88  len=10  crashed=1  eps=0.393
+step=   3837  return=  3.15  len= 5  crashed=1  eps=0.392
+step=   3841  return=  2.73  len= 4  crashed=1  eps=0.392
+step=   3848  return=  5.27  len= 7  crashed=1  eps=0.391
+step=   3851  return=  1.85  len= 3  crashed=1  eps=0.390
+step=   3857  return=  4.50  len= 6  crashed=1  eps=0.389
+step=   3874  return= 12.88  len=17  crashed=1  eps=0.387
+step=   3904  return= 22.28  len=30  crashed=0  eps=0.382
+step=   3908  return=  3.05  len= 4  crashed=1  eps=0.381
+step=   3913  return=  3.27  len= 5  crashed=1  eps=0.380
+step=   3929  return= 12.70  len=16  crashed=1  eps=0.378
+step=   3936  return=  5.85  len= 7  crashed=1  eps=0.377
+step=   3963  return= 20.13  len=27  crashed=1  eps=0.373
+step=   3993  return= 24.23  len=30  crashed=0  eps=0.368
+step=   4013  return= 18.20  len=20  crashed=1  eps=0.365
+step=   4026  return= 10.75  len=13  crashed=1  eps=0.363
+step=   4032  return=  4.61  len= 6  crashed=1  eps=0.362
+step=   4051  return= 14.53  len=19  crashed=1  eps=0.359
+step=   4062  return=  8.58  len=11  crashed=1  eps=0.357
+step=   4092  return= 25.12  len=30  crashed=0  eps=0.352
+step=   4100  return=  6.38  len= 8  crashed=1  eps=0.351
+step=   4105  return=  3.81  len= 5  crashed=1  eps=0.350
+step=   4112  return=  5.40  len= 7  crashed=1  eps=0.349
+step=   4142  return= 22.50  len=30  crashed=0  eps=0.344
+step=   4161  return= 15.48  len=19  crashed=1  eps=0.341
+step=   4167  return=  4.20  len= 6  crashed=1  eps=0.340
+step=   4178  return=  8.81  len=11  crashed=1  eps=0.338
+step=   4208  return= 23.88  len=30  crashed=0  eps=0.334
+step=   4211  return=  1.88  len= 3  crashed=1  eps=0.333
+step=   4221  return=  7.99  len=10  crashed=1  eps=0.332
+step=   4228  return=  5.31  len= 7  crashed=1  eps=0.331
+step=   4248  return= 15.15  len=20  crashed=1  eps=0.327
+step=   4278  return= 23.77  len=30  crashed=1  eps=0.323
+step=   4306  return= 20.41  len=28  crashed=1  eps=0.318
+step=   4336  return= 23.43  len=30  crashed=0  eps=0.313
+step=   4362  return= 20.36  len=26  crashed=1  eps=0.309
+step=   4392  return= 23.40  len=30  crashed=0  eps=0.305
+step=   4422  return= 23.03  len=30  crashed=0  eps=0.300
+step=   4451  return= 21.73  len=29  crashed=1  eps=0.295
+step=   4481  return= 25.90  len=30  crashed=0  eps=0.291
+step=   4511  return= 22.39  len=30  crashed=0  eps=0.286
+step=   4535  return= 16.55  len=24  crashed=1  eps=0.282
+step=   4552  return= 13.64  len=17  crashed=1  eps=0.279
+step=   4582  return= 23.51  len=30  crashed=0  eps=0.275
+step=   4591  return=  6.58  len= 9  crashed=1  eps=0.273
+step=   4621  return= 22.45  len=30  crashed=0  eps=0.268
+step=   4651  return= 23.88  len=30  crashed=0  eps=0.264
+step=   4664  return= 11.75  len=13  crashed=1  eps=0.262
+step=   4680  return= 12.51  len=16  crashed=1  eps=0.259
+step=   4699  return= 14.38  len=19  crashed=1  eps=0.256
+step=   4705  return=  5.02  len= 6  crashed=1  eps=0.255
+step=   4735  return= 23.29  len=30  crashed=0  eps=0.250
+step=   4751  return= 11.01  len=16  crashed=1  eps=0.248
+step=   4755  return=  2.91  len= 4  crashed=1  eps=0.247
+step=   4785  return= 24.75  len=30  crashed=0  eps=0.242
+step=   4814  return= 27.21  len=29  crashed=1  eps=0.238
+step=   4821  return=  5.06  len= 7  crashed=1  eps=0.237
+step=   4832  return=  9.58  len=11  crashed=1  eps=0.235
+step=   4848  return= 12.84  len=16  crashed=1  eps=0.232
+step=   4878  return= 25.09  len=30  crashed=0  eps=0.228
+step=   4903  return= 19.71  len=25  crashed=1  eps=0.224
+step=   4912  return=  7.40  len= 9  crashed=1  eps=0.222
+step=   4932  return= 16.95  len=20  crashed=1  eps=0.219
+step=   4962  return= 21.85  len=30  crashed=0  eps=0.214
+step=   4992  return= 25.49  len=30  crashed=0  eps=0.210
+step=   5003  return=  9.29  len=11  crashed=1  eps=0.208
+step=   5033  return= 23.05  len=30  crashed=0  eps=0.203
+step=   5063  return= 24.28  len=30  crashed=0  eps=0.198
+step=   5073  return=  7.95  len=10  crashed=1  eps=0.197
+step=   5076  return=  1.67  len= 3  crashed=1  eps=0.196
+step=   5083  return=  5.75  len= 7  crashed=1  eps=0.195
+step=   5104  return= 17.98  len=21  crashed=1  eps=0.192
+step=   5122  return= 13.72  len=18  crashed=1  eps=0.189
+step=   5136  return=  9.52  len=14  crashed=1  eps=0.187
+step=   5142  return=  4.17  len= 6  crashed=1  eps=0.186
+step=   5152  return=  7.74  len=10  crashed=1  eps=0.184
+step=   5182  return= 25.42  len=30  crashed=0  eps=0.180
+step=   5185  return=  1.73  len= 3  crashed=1  eps=0.179
+step=   5196  return=  9.88  len=11  crashed=1  eps=0.177
+step=   5206  return=  8.38  len=10  crashed=1  eps=0.176
+step=   5217  return=  8.12  len=11  crashed=1  eps=0.174
+step=   5223  return=  5.05  len= 6  crashed=1  eps=0.173
+step=   5253  return= 25.71  len=30  crashed=0  eps=0.168
+step=   5273  return= 17.59  len=20  crashed=1  eps=0.165
+step=   5287  return= 12.91  len=14  crashed=1  eps=0.163
+step=   5289  return=  1.07  len= 2  crashed=1  eps=0.163
+step=   5319  return= 20.59  len=30  crashed=0  eps=0.158
+step=   5347  return= 20.75  len=28  crashed=1  eps=0.153
+step=   5353  return=  4.91  len= 6  crashed=1  eps=0.152
+step=   5380  return= 25.06  len=27  crashed=1  eps=0.148
+step=   5393  return= 10.78  len=13  crashed=1  eps=0.146
+step=   5423  return= 24.32  len=30  crashed=0  eps=0.141
+step=   5429  return=  4.23  len= 6  crashed=1  eps=0.140
+step=   5448  return= 15.71  len=19  crashed=1  eps=0.137
+step=   5478  return= 23.98  len=30  crashed=0  eps=0.133
+step=   5491  return= 11.66  len=13  crashed=1  eps=0.131
+step=   5521  return= 22.15  len=30  crashed=0  eps=0.126
+step=   5551  return= 24.19  len=30  crashed=0  eps=0.121
+step=   5566  return= 11.32  len=15  crashed=1  eps=0.119
+step=   5593  return= 24.38  len=27  crashed=1  eps=0.114
+step=   5623  return= 23.02  len=30  crashed=0  eps=0.110
+step=   5653  return= 22.95  len=30  crashed=0  eps=0.105
+step=   5683  return= 23.22  len=30  crashed=0  eps=0.100
+step=   5713  return= 21.98  len=30  crashed=0  eps=0.095
+step=   5717  return=  2.58  len= 4  crashed=1  eps=0.095
+step=   5725  return=  6.68  len= 8  crashed=1  eps=0.094
+step=   5733  return=  6.71  len= 8  crashed=1  eps=0.092
+step=   5749  return= 13.38  len=16  crashed=1  eps=0.090
+step=   5779  return= 26.76  len=30  crashed=0  eps=0.085
+step=   5809  return= 24.82  len=30  crashed=0  eps=0.080
+step=   5839  return= 25.00  len=30  crashed=0  eps=0.075
+step=   5869  return= 23.49  len=30  crashed=0  eps=0.071
+step=   5899  return= 23.09  len=30  crashed=0  eps=0.066
+step=   5906  return=  6.01  len= 7  crashed=1  eps=0.065
+step=   5932  return= 20.55  len=26  crashed=1  eps=0.061
+step=   5958  return= 23.26  len=26  crashed=1  eps=0.057
+step=   5970  return= 10.50  len=12  crashed=1  eps=0.055
+step=   6000  return= 22.39  len=30  crashed=0  eps=0.050
+step=   6009  return=  6.87  len= 9  crashed=1  eps=0.050
+step=   6039  return= 25.38  len=30  crashed=0  eps=0.050
+step=   6051  return= 11.07  len=12  crashed=1  eps=0.050
+step=   6071  return= 14.07  len=20  crashed=1  eps=0.050
+step=   6079  return=  6.28  len= 8  crashed=1  eps=0.050
+step=   6100  return= 17.73  len=21  crashed=1  eps=0.050
+step=   6114  return= 11.58  len=14  crashed=1  eps=0.050
+step=   6117  return=  2.01  len= 3  crashed=1  eps=0.050
+step=   6121  return=  3.20  len= 4  crashed=1  eps=0.050
+step=   6151  return= 23.65  len=30  crashed=0  eps=0.050
+step=   6181  return= 22.69  len=30  crashed=0  eps=0.050
+step=   6201  return= 13.90  len=20  crashed=1  eps=0.050
+step=   6215  return= 10.76  len=14  crashed=1  eps=0.050
+step=   6228  return= 11.88  len=13  crashed=1  eps=0.050
+step=   6249  return= 16.75  len=21  crashed=1  eps=0.050
+step=   6257  return=  7.31  len= 8  crashed=1  eps=0.050
+step=   6287  return= 24.31  len=30  crashed=0  eps=0.050
+step=   6296  return=  7.23  len= 9  crashed=1  eps=0.050
+step=   6302  return=  4.39  len= 6  crashed=1  eps=0.050
+step=   6330  return= 23.18  len=28  crashed=1  eps=0.050
+step=   6339  return=  7.00  len= 9  crashed=1  eps=0.050
+step=   6350  return=  8.73  len=11  crashed=1  eps=0.050
+step=   6380  return= 26.00  len=30  crashed=0  eps=0.050
+step=   6410  return= 23.82  len=30  crashed=0  eps=0.050
+step=   6427  return= 14.18  len=17  crashed=1  eps=0.050
+step=   6457  return= 22.95  len=30  crashed=0  eps=0.050
+step=   6487  return= 23.32  len=30  crashed=0  eps=0.050
+step=   6517  return= 22.65  len=30  crashed=0  eps=0.050
+step=   6523  return=  4.37  len= 6  crashed=1  eps=0.050
+step=   6553  return= 23.75  len=30  crashed=0  eps=0.050
+step=   6562  return=  8.18  len= 9  crashed=1  eps=0.050
+step=   6567  return=  3.85  len= 5  crashed=1  eps=0.050
+step=   6573  return=  5.06  len= 6  crashed=1  eps=0.050
+step=   6583  return=  7.26  len=10  crashed=1  eps=0.050
+step=   6604  return= 18.21  len=21  crashed=1  eps=0.050
+step=   6634  return= 24.08  len=30  crashed=0  eps=0.050
+step=   6664  return= 25.78  len=30  crashed=0  eps=0.050
+step=   6687  return= 17.54  len=23  crashed=1  eps=0.050
+step=   6702  return= 12.15  len=15  crashed=1  eps=0.050
+step=   6727  return= 20.88  len=25  crashed=1  eps=0.050
+step=   6739  return=  9.12  len=12  crashed=1  eps=0.050
+step=   6747  return=  6.48  len= 8  crashed=1  eps=0.050
+step=   6777  return= 22.98  len=30  crashed=0  eps=0.050
+step=   6789  return=  9.22  len=12  crashed=1  eps=0.050
+step=   6819  return= 20.89  len=30  crashed=0  eps=0.050
+step=   6849  return= 25.52  len=30  crashed=0  eps=0.050
+step=   6869  return= 15.48  len=20  crashed=1  eps=0.050
+step=   6878  return=  7.08  len= 9  crashed=1  eps=0.050
+step=   6886  return=  6.80  len= 8  crashed=1  eps=0.050
+step=   6916  return= 22.39  len=30  crashed=0  eps=0.050
+step=   6946  return= 22.65  len=30  crashed=0  eps=0.050
+step=   6954  return=  6.11  len= 8  crashed=1  eps=0.050
+step=   6970  return= 11.95  len=16  crashed=1  eps=0.050
+step=   7000  return= 22.92  len=30  crashed=0  eps=0.050
+step=   7006  return=  5.05  len= 6  crashed=1  eps=0.050
+step=   7012  return=  4.90  len= 6  crashed=1  eps=0.050
+step=   7026  return= 11.31  len=14  crashed=1  eps=0.050
+step=   7056  return= 21.92  len=30  crashed=0  eps=0.050
+step=   7065  return=  7.35  len= 9  crashed=1  eps=0.050
+step=   7071  return=  4.55  len= 6  crashed=1  eps=0.050
+step=   7077  return=  4.17  len= 6  crashed=1  eps=0.050
+step=   7107  return= 24.02  len=30  crashed=0  eps=0.050
+step=   7137  return= 21.75  len=30  crashed=0  eps=0.050
+step=   7167  return= 23.68  len=30  crashed=0  eps=0.050
+step=   7180  return= 10.25  len=13  crashed=1  eps=0.050
+step=   7210  return= 21.35  len=30  crashed=0  eps=0.050
+step=   7240  return= 26.63  len=30  crashed=0  eps=0.050
+step=   7253  return= 10.47  len=13  crashed=1  eps=0.050
+step=   7283  return= 23.78  len=30  crashed=0  eps=0.050
+step=   7290  return=  5.18  len= 7  crashed=1  eps=0.050
+step=   7297  return=  5.35  len= 7  crashed=1  eps=0.050
+step=   7319  return= 18.41  len=22  crashed=1  eps=0.050
+step=   7331  return= 10.30  len=12  crashed=1  eps=0.050
+step=   7354  return= 21.31  len=23  crashed=1  eps=0.050
+step=   7384  return= 25.21  len=30  crashed=0  eps=0.050
+step=   7414  return= 21.42  len=30  crashed=0  eps=0.050
+step=   7444  return= 26.09  len=30  crashed=0  eps=0.050
+step=   7474  return= 23.70  len=30  crashed=0  eps=0.050
+step=   7483  return=  7.28  len= 9  crashed=1  eps=0.050
+step=   7513  return= 26.36  len=30  crashed=0  eps=0.050
+step=   7531  return= 16.04  len=18  crashed=1  eps=0.050
+step=   7557  return= 19.87  len=26  crashed=1  eps=0.050
+step=   7584  return= 24.81  len=27  crashed=1  eps=0.050
+step=   7600  return= 13.61  len=16  crashed=1  eps=0.050
+step=   7605  return=  3.53  len= 5  crashed=1  eps=0.050
+step=   7635  return= 25.45  len=30  crashed=0  eps=0.050
+step=   7658  return= 18.75  len=23  crashed=1  eps=0.050
+step=   7665  return=  5.75  len= 7  crashed=1  eps=0.050
+step=   7694  return= 22.57  len=29  crashed=1  eps=0.050
+step=   7701  return=  5.88  len= 7  crashed=1  eps=0.050
+step=   7731  return= 20.69  len=30  crashed=0  eps=0.050
+step=   7761  return= 25.65  len=30  crashed=0  eps=0.050
+step=   7791  return= 22.85  len=30  crashed=0  eps=0.050
+step=   7799  return=  6.44  len= 8  crashed=1  eps=0.050
+step=   7803  return=  2.53  len= 4  crashed=1  eps=0.050
+step=   7809  return=  4.55  len= 6  crashed=1  eps=0.050
+step=   7839  return= 25.27  len=30  crashed=1  eps=0.050
+step=   7869  return= 23.15  len=30  crashed=0  eps=0.050
+step=   7882  return= 11.18  len=13  crashed=1  eps=0.050
+step=   7893  return=  8.95  len=11  crashed=1  eps=0.050
+step=   7904  return= 10.05  len=11  crashed=1  eps=0.050
+step=   7934  return= 24.91  len=30  crashed=0  eps=0.050
+step=   7963  return= 20.35  len=29  crashed=1  eps=0.050
+step=   7991  return= 23.33  len=28  crashed=1  eps=0.050
+step=   7999  return=  5.90  len= 8  crashed=1  eps=0.050
+step=   8029  return= 23.88  len=30  crashed=0  eps=0.050
+step=   8038  return=  6.65  len= 9  crashed=1  eps=0.050
+step=   8056  return= 15.62  len=18  crashed=1  eps=0.050
+step=   8063  return=  5.75  len= 7  crashed=1  eps=0.050
+step=   8093  return= 23.68  len=30  crashed=0  eps=0.050
+step=   8106  return= 11.62  len=13  crashed=1  eps=0.050
+step=   8124  return= 15.41  len=18  crashed=1  eps=0.050
+step=   8154  return= 24.15  len=30  crashed=0  eps=0.050
+step=   8159  return=  3.95  len= 5  crashed=1  eps=0.050
+step=   8166  return=  5.75  len= 7  crashed=1  eps=0.050
+step=   8181  return= 13.75  len=15  crashed=1  eps=0.050
+step=   8211  return= 26.42  len=30  crashed=0  eps=0.050
+step=   8241  return= 23.72  len=30  crashed=0  eps=0.050
+step=   8250  return=  7.19  len= 9  crashed=1  eps=0.050
+step=   8261  return=  9.40  len=11  crashed=1  eps=0.050
+step=   8287  return= 23.16  len=26  crashed=1  eps=0.050
+step=   8317  return= 20.82  len=30  crashed=0  eps=0.050
+step=   8334  return= 14.46  len=17  crashed=1  eps=0.050
+step=   8343  return=  7.73  len= 9  crashed=1  eps=0.050
+step=   8356  return= 12.01  len=13  crashed=1  eps=0.050
+step=   8386  return= 24.42  len=30  crashed=0  eps=0.050
+step=   8416  return= 25.10  len=30  crashed=0  eps=0.050
+step=   8446  return= 25.05  len=30  crashed=0  eps=0.050
+step=   8476  return= 24.45  len=30  crashed=0  eps=0.050
+step=   8488  return= 10.35  len=12  crashed=1  eps=0.050
+step=   8518  return= 23.55  len=30  crashed=0  eps=0.050
+step=   8548  return= 24.68  len=30  crashed=1  eps=0.050
+step=   8578  return= 25.59  len=30  crashed=0  eps=0.050
+step=   8581  return=  1.67  len= 3  crashed=1  eps=0.050
+step=   8611  return= 28.61  len=30  crashed=0  eps=0.050
+step=   8619  return=  6.91  len= 8  crashed=1  eps=0.050
+step=   8641  return= 18.78  len=22  crashed=1  eps=0.050
+step=   8661  return= 15.78  len=20  crashed=1  eps=0.050
+step=   8668  return=  4.97  len= 7  crashed=1  eps=0.050
+step=   8683  return= 12.72  len=15  crashed=1  eps=0.050
+step=   8713  return= 23.39  len=30  crashed=0  eps=0.050
+step=   8735  return= 16.25  len=22  crashed=1  eps=0.050
+step=   8750  return= 11.37  len=15  crashed=1  eps=0.050
+step=   8761  return= 10.01  len=11  crashed=1  eps=0.050
+step=   8769  return=  7.01  len= 8  crashed=1  eps=0.050
+step=   8788  return= 15.20  len=19  crashed=1  eps=0.050
+step=   8818  return= 27.21  len=30  crashed=0  eps=0.050
+step=   8840  return= 17.18  len=22  crashed=1  eps=0.050
+step=   8851  return=  9.48  len=11  crashed=1  eps=0.050
+step=   8864  return= 11.93  len=13  crashed=1  eps=0.050
+step=   8880  return= 13.98  len=16  crashed=1  eps=0.050
+step=   8899  return= 15.55  len=19  crashed=1  eps=0.050
+step=   8929  return= 23.59  len=30  crashed=0  eps=0.050
+step=   8946  return= 12.98  len=17  crashed=1  eps=0.050
+step=   8976  return= 21.97  len=30  crashed=0  eps=0.050
+step=   8986  return=  7.45  len=10  crashed=1  eps=0.050
+step=   9016  return= 26.15  len=30  crashed=0  eps=0.050
+step=   9024  return=  6.62  len= 8  crashed=1  eps=0.050
+step=   9043  return= 15.73  len=19  crashed=1  eps=0.050
+step=   9073  return= 23.38  len=30  crashed=0  eps=0.050
+step=   9086  return= 11.61  len=13  crashed=1  eps=0.050
+step=   9116  return= 25.58  len=30  crashed=0  eps=0.050
+step=   9134  return= 14.12  len=18  crashed=1  eps=0.050
+step=   9164  return= 23.62  len=30  crashed=0  eps=0.050
+step=   9174  return=  9.31  len=10  crashed=1  eps=0.050
+step=   9182  return=  6.80  len= 8  crashed=1  eps=0.050
+step=   9189  return=  5.58  len= 7  crashed=1  eps=0.050
+step=   9201  return= 10.51  len=12  crashed=1  eps=0.050
+step=   9231  return= 24.98  len=30  crashed=0  eps=0.050
+step=   9261  return= 24.18  len=30  crashed=0  eps=0.050
+step=   9263  return=  1.12  len= 2  crashed=1  eps=0.050
+step=   9279  return= 14.14  len=16  crashed=1  eps=0.050
+step=   9294  return= 13.28  len=15  crashed=1  eps=0.050
+step=   9319  return= 18.68  len=25  crashed=1  eps=0.050
+step=   9323  return=  2.98  len= 4  crashed=1  eps=0.050
+step=   9353  return= 23.22  len=30  crashed=0  eps=0.050
+step=   9365  return= 10.28  len=12  crashed=1  eps=0.050
+step=   9395  return= 22.62  len=30  crashed=0  eps=0.050
+step=   9410  return= 11.03  len=15  crashed=1  eps=0.050
+step=   9440  return= 27.98  len=30  crashed=0  eps=0.050
+step=   9470  return= 25.01  len=30  crashed=0  eps=0.050
+step=   9484  return= 12.88  len=14  crashed=1  eps=0.050
+step=   9514  return= 24.15  len=30  crashed=0  eps=0.050
+step=   9543  return= 25.28  len=29  crashed=1  eps=0.050
+step=   9573  return= 23.72  len=30  crashed=0  eps=0.050
+step=   9603  return= 25.22  len=30  crashed=0  eps=0.050
+step=   9633  return= 24.38  len=30  crashed=0  eps=0.050
+step=   9644  return=  9.41  len=11  crashed=1  eps=0.050
+step=   9674  return= 25.97  len=30  crashed=0  eps=0.050
+step=   9704  return= 25.18  len=30  crashed=0  eps=0.050
+step=   9715  return=  8.05  len=11  crashed=1  eps=0.050
+step=   9738  return= 18.30  len=23  crashed=1  eps=0.050
+step=   9752  return=  9.95  len=14  crashed=1  eps=0.050
+step=   9782  return= 23.92  len=30  crashed=0  eps=0.050
+step=   9812  return= 21.42  len=30  crashed=0  eps=0.050
+step=   9842  return= 22.35  len=30  crashed=0  eps=0.050
+step=   9852  return=  8.71  len=10  crashed=1  eps=0.050
+step=   9860  return=  6.07  len= 8  crashed=1  eps=0.050
+step=   9890  return= 23.32  len=30  crashed=0  eps=0.050
+step=   9920  return= 23.12  len=30  crashed=0  eps=0.050
+step=   9929  return=  7.48  len= 9  crashed=1  eps=0.050
+step=   9959  return= 24.15  len=30  crashed=0  eps=0.050
+step=   9989  return= 24.65  len=30  crashed=0  eps=0.050
+step=  10006  return= 15.08  len=17  crashed=1  eps=0.050
+step=  10036  return= 24.82  len=30  crashed=0  eps=0.050
+step=  10052  return= 13.53  len=16  crashed=1  eps=0.050
+step=  10062  return=  8.35  len=10  crashed=1  eps=0.050
+step=  10092  return= 25.57  len=30  crashed=0  eps=0.050
+step=  10122  return= 24.95  len=30  crashed=0  eps=0.050
+step=  10152  return= 23.35  len=30  crashed=0  eps=0.050
+step=  10167  return= 13.98  len=15  crashed=1  eps=0.050
+step=  10197  return= 25.18  len=30  crashed=0  eps=0.050
+step=  10227  return= 25.65  len=30  crashed=0  eps=0.050
+step=  10242  return= 11.30  len=15  crashed=1  eps=0.050
+step=  10272  return= 22.85  len=30  crashed=0  eps=0.050
+step=  10302  return= 24.88  len=30  crashed=0  eps=0.050
+step=  10332  return= 25.82  len=30  crashed=0  eps=0.050
+step=  10347  return= 13.76  len=15  crashed=1  eps=0.050
+step=  10377  return= 22.29  len=30  crashed=0  eps=0.050
+step=  10407  return= 25.02  len=30  crashed=0  eps=0.050
+step=  10437  return= 23.61  len=30  crashed=0  eps=0.050
+step=  10467  return= 23.22  len=30  crashed=0  eps=0.050
+step=  10497  return= 24.88  len=30  crashed=0  eps=0.050
+step=  10527  return= 24.95  len=30  crashed=0  eps=0.050
+step=  10545  return= 15.21  len=18  crashed=1  eps=0.050
+step=  10563  return= 15.82  len=18  crashed=1  eps=0.050
+step=  10593  return= 25.62  len=30  crashed=0  eps=0.050
+step=  10619  return= 21.69  len=26  crashed=1  eps=0.050
+step=  10631  return=  9.75  len=12  crashed=1  eps=0.050
+step=  10661  return= 23.02  len=30  crashed=0  eps=0.050
+step=  10677  return= 12.58  len=16  crashed=1  eps=0.050
+step=  10707  return= 26.23  len=30  crashed=0  eps=0.050
+step=  10737  return= 22.85  len=30  crashed=0  eps=0.050
+step=  10750  return=  9.90  len=13  crashed=1  eps=0.050
+step=  10780  return= 25.41  len=30  crashed=0  eps=0.050
+step=  10810  return= 25.82  len=30  crashed=0  eps=0.050
+step=  10840  return= 24.69  len=30  crashed=0  eps=0.050
+step=  10870  return= 23.08  len=30  crashed=0  eps=0.050
+step=  10900  return= 26.92  len=30  crashed=0  eps=0.050
+step=  10920  return= 16.97  len=20  crashed=1  eps=0.050
+step=  10933  return=  9.90  len=13  crashed=1  eps=0.050
+step=  10938  return=  3.78  len= 5  crashed=1  eps=0.050
+step=  10968  return= 25.32  len=30  crashed=0  eps=0.050
+step=  10998  return= 26.68  len=30  crashed=0  eps=0.050
+step=  11009  return=  9.53  len=11  crashed=1  eps=0.050
+step=  11020  return=  9.26  len=11  crashed=1  eps=0.050
+step=  11044  return= 18.27  len=24  crashed=1  eps=0.050
+step=  11074  return= 28.76  len=30  crashed=0  eps=0.050
+step=  11104  return= 24.35  len=30  crashed=0  eps=0.050
+step=  11117  return= 10.65  len=13  crashed=1  eps=0.050
+step=  11147  return= 23.75  len=30  crashed=0  eps=0.050
+step=  11175  return= 23.98  len=28  crashed=1  eps=0.050
+step=  11195  return= 17.29  len=20  crashed=1  eps=0.050
+step=  11211  return= 14.93  len=16  crashed=1  eps=0.050
+step=  11241  return= 23.42  len=30  crashed=0  eps=0.050
+step=  11255  return= 10.85  len=14  crashed=1  eps=0.050
+step=  11276  return= 15.96  len=21  crashed=1  eps=0.050
+step=  11306  return= 25.09  len=30  crashed=0  eps=0.050
+step=  11336  return= 22.68  len=30  crashed=0  eps=0.050
+step=  11366  return= 25.02  len=30  crashed=0  eps=0.050
+step=  11376  return=  7.69  len=10  crashed=1  eps=0.050
+step=  11390  return= 11.93  len=14  crashed=1  eps=0.050
+step=  11405  return= 13.76  len=15  crashed=1  eps=0.050
+step=  11431  return= 19.43  len=26  crashed=1  eps=0.050
+step=  11449  return= 15.20  len=18  crashed=1  eps=0.050
+step=  11479  return= 26.82  len=30  crashed=0  eps=0.050
+step=  11489  return=  8.80  len=10  crashed=1  eps=0.050
+step=  11519  return= 26.82  len=30  crashed=0  eps=0.050
+step=  11536  return= 15.00  len=17  crashed=1  eps=0.050
+step=  11555  return= 16.64  len=19  crashed=1  eps=0.050
+step=  11580  return= 21.31  len=25  crashed=1  eps=0.050
+step=  11597  return= 15.33  len=17  crashed=1  eps=0.050
+step=  11627  return= 25.15  len=30  crashed=1  eps=0.050
+step=  11657  return= 24.74  len=30  crashed=0  eps=0.050
+step=  11687  return= 24.12  len=30  crashed=0  eps=0.050
+step=  11708  return= 17.06  len=21  crashed=1  eps=0.050
+step=  11738  return= 26.41  len=30  crashed=0  eps=0.050
+step=  11744  return=  4.63  len= 6  crashed=1  eps=0.050
+step=  11756  return= 10.80  len=12  crashed=1  eps=0.050
+step=  11786  return= 25.82  len=30  crashed=0  eps=0.050
+step=  11803  return= 12.99  len=17  crashed=1  eps=0.050
+step=  11818  return= 13.41  len=15  crashed=1  eps=0.050
+step=  11822  return=  2.78  len= 4  crashed=1  eps=0.050
+step=  11852  return= 24.08  len=30  crashed=0  eps=0.050
+step=  11862  return=  7.76  len=10  crashed=1  eps=0.050
+step=  11891  return= 21.40  len=29  crashed=1  eps=0.050
+step=  11921  return= 27.68  len=30  crashed=0  eps=0.050
+step=  11951  return= 21.25  len=30  crashed=0  eps=0.050
+step=  11958  return=  6.01  len= 7  crashed=1  eps=0.050
+step=  11972  return= 10.55  len=14  crashed=1  eps=0.050
+step=  11994  return= 18.28  len=22  crashed=1  eps=0.050
+step=  12024  return= 24.15  len=30  crashed=0  eps=0.050
+step=  12033  return=  6.35  len= 9  crashed=1  eps=0.050
+step=  12039  return=  4.65  len= 6  crashed=1  eps=0.050
+step=  12055  return= 13.43  len=16  crashed=1  eps=0.050
+step=  12063  return=  6.93  len= 8  crashed=1  eps=0.050
+step=  12070  return=  5.06  len= 7  crashed=1  eps=0.050
+step=  12091  return= 15.35  len=21  crashed=1  eps=0.050
+step=  12100  return=  6.70  len= 9  crashed=1  eps=0.050
+step=  12115  return= 12.58  len=15  crashed=1  eps=0.050
+step=  12145  return= 25.48  len=30  crashed=0  eps=0.050
+step=  12175  return= 24.35  len=30  crashed=0  eps=0.050
+step=  12205  return= 24.15  len=30  crashed=0  eps=0.050
+step=  12235  return= 24.82  len=30  crashed=0  eps=0.050
+step=  12265  return= 22.69  len=30  crashed=0  eps=0.050
+step=  12294  return= 24.63  len=29  crashed=1  eps=0.050
+step=  12304  return=  8.08  len=10  crashed=1  eps=0.050
+step=  12311  return=  6.06  len= 7  crashed=1  eps=0.050
+step=  12336  return= 21.50  len=25  crashed=1  eps=0.050
+step=  12355  return= 17.68  len=19  crashed=1  eps=0.050
+step=  12385  return= 25.70  len=30  crashed=0  eps=0.050
+step=  12393  return=  7.18  len= 8  crashed=1  eps=0.050
+step=  12406  return= 11.32  len=13  crashed=1  eps=0.050
+step=  12436  return= 28.11  len=30  crashed=0  eps=0.050
+step=  12466  return= 25.09  len=30  crashed=0  eps=0.050
+step=  12470  return=  2.58  len= 4  crashed=1  eps=0.050
+step=  12500  return= 25.11  len=30  crashed=0  eps=0.050
+step=  12509  return=  7.58  len= 9  crashed=1  eps=0.050
+step=  12514  return=  3.68  len= 5  crashed=1  eps=0.050
+step=  12544  return= 25.92  len=30  crashed=0  eps=0.050
+step=  12562  return= 15.94  len=18  crashed=1  eps=0.050
+step=  12588  return= 19.51  len=26  crashed=1  eps=0.050
+step=  12598  return=  8.11  len=10  crashed=1  eps=0.050
+step=  12618  return= 17.70  len=20  crashed=1  eps=0.050
+step=  12634  return= 12.80  len=16  crashed=1  eps=0.050
+step=  12664  return= 24.62  len=30  crashed=0  eps=0.050
+step=  12694  return= 24.82  len=30  crashed=0  eps=0.050
+step=  12705  return=  8.83  len=11  crashed=1  eps=0.050
+step=  12716  return=  9.03  len=11  crashed=1  eps=0.050
+step=  12746  return= 25.35  len=30  crashed=0  eps=0.050
+step=  12776  return= 24.69  len=30  crashed=0  eps=0.050
+step=  12794  return= 14.87  len=18  crashed=1  eps=0.050
+step=  12824  return= 25.72  len=30  crashed=0  eps=0.050
+step=  12854  return= 25.00  len=30  crashed=0  eps=0.050
+step=  12884  return= 24.52  len=30  crashed=0  eps=0.050
+step=  12892  return=  5.72  len= 8  crashed=1  eps=0.050
+step=  12910  return= 13.35  len=18  crashed=1  eps=0.050
+step=  12940  return= 26.86  len=30  crashed=0  eps=0.050
+step=  12966  return= 20.30  len=26  crashed=1  eps=0.050
+step=  12996  return= 22.99  len=30  crashed=0  eps=0.050
+step=  13026  return= 25.92  len=30  crashed=0  eps=0.050
+step=  13032  return=  5.20  len= 6  crashed=1  eps=0.050
+step=  13059  return= 21.40  len=27  crashed=1  eps=0.050
+step=  13089  return= 23.99  len=30  crashed=0  eps=0.050
+step=  13119  return= 27.94  len=30  crashed=0  eps=0.050
+step=  13149  return= 24.35  len=30  crashed=0  eps=0.050
+step=  13179  return= 24.45  len=30  crashed=0  eps=0.050
+step=  13209  return= 21.75  len=30  crashed=0  eps=0.050
+step=  13239  return= 22.99  len=30  crashed=0  eps=0.050
+step=  13269  return= 24.52  len=30  crashed=0  eps=0.050
+step=  13295  return= 18.90  len=26  crashed=1  eps=0.050
+step=  13325  return= 24.02  len=30  crashed=0  eps=0.050
+step=  13355  return= 24.82  len=30  crashed=0  eps=0.050
+step=  13363  return=  5.89  len= 8  crashed=1  eps=0.050
+step=  13384  return= 17.02  len=21  crashed=1  eps=0.050
+step=  13414  return= 22.83  len=30  crashed=1  eps=0.050
+step=  13434  return= 15.31  len=20  crashed=1  eps=0.050
+step=  13464  return= 23.99  len=30  crashed=0  eps=0.050
+step=  13494  return= 23.18  len=30  crashed=0  eps=0.050
+step=  13515  return= 16.48  len=21  crashed=1  eps=0.050
+step=  13525  return=  8.03  len=10  crashed=1  eps=0.050
+step=  13543  return= 14.40  len=18  crashed=1  eps=0.050
+step=  13573  return= 25.24  len=30  crashed=0  eps=0.050
+step=  13603  return= 22.55  len=30  crashed=0  eps=0.050
+step=  13633  return= 21.55  len=30  crashed=0  eps=0.050
+step=  13663  return= 24.75  len=30  crashed=0  eps=0.050
+step=  13681  return= 13.09  len=18  crashed=1  eps=0.050
+step=  13687  return=  4.65  len= 6  crashed=1  eps=0.050
+step=  13717  return= 22.39  len=30  crashed=0  eps=0.050
+step=  13747  return= 24.53  len=30  crashed=0  eps=0.050
+step=  13752  return=  3.93  len= 5  crashed=1  eps=0.050
+step=  13782  return= 24.75  len=30  crashed=0  eps=0.050
+step=  13806  return= 19.01  len=24  crashed=1  eps=0.050
+step=  13814  return=  6.38  len= 8  crashed=1  eps=0.050
+step=  13827  return= 12.01  len=13  crashed=1  eps=0.050
+step=  13840  return= 11.80  len=13  crashed=1  eps=0.050
+step=  13850  return=  8.90  len=10  crashed=1  eps=0.050
+step=  13880  return= 22.35  len=30  crashed=0  eps=0.050
+step=  13904  return= 20.80  len=24  crashed=1  eps=0.050
+step=  13922  return= 14.45  len=18  crashed=1  eps=0.050
+step=  13952  return= 24.92  len=30  crashed=0  eps=0.050
+step=  13957  return=  3.73  len= 5  crashed=1  eps=0.050
+step=  13987  return= 25.74  len=30  crashed=0  eps=0.050
+step=  14017  return= 23.93  len=30  crashed=0  eps=0.050
+step=  14038  return= 17.88  len=21  crashed=1  eps=0.050
+step=  14066  return= 21.83  len=28  crashed=1  eps=0.050
+step=  14087  return= 17.96  len=21  crashed=1  eps=0.050
+step=  14106  return= 16.24  len=19  crashed=1  eps=0.050
+step=  14134  return= 21.05  len=28  crashed=1  eps=0.050
+step=  14143  return=  7.63  len= 9  crashed=1  eps=0.050
+step=  14173  return= 20.99  len=30  crashed=0  eps=0.050
+step=  14203  return= 23.62  len=30  crashed=0  eps=0.050
+step=  14233  return= 23.45  len=30  crashed=0  eps=0.050
+step=  14263  return= 24.25  len=30  crashed=0  eps=0.050
+step=  14267  return=  3.15  len= 4  crashed=1  eps=0.050
+step=  14279  return=  9.74  len=12  crashed=1  eps=0.050
+step=  14309  return= 25.62  len=30  crashed=0  eps=0.050
+step=  14339  return= 24.92  len=30  crashed=0  eps=0.050
+step=  14347  return=  6.80  len= 8  crashed=1  eps=0.050
+step=  14377  return= 23.47  len=30  crashed=0  eps=0.050
+step=  14387  return=  8.05  len=10  crashed=1  eps=0.050
+step=  14395  return=  6.72  len= 8  crashed=1  eps=0.050
+step=  14406  return=  9.61  len=11  crashed=1  eps=0.050
+step=  14436  return= 21.52  len=30  crashed=0  eps=0.050
+step=  14463  return= 19.35  len=27  crashed=1  eps=0.050
+step=  14483  return= 14.62  len=20  crashed=1  eps=0.050
+step=  14513  return= 24.02  len=30  crashed=0  eps=0.050
+step=  14531  return= 14.86  len=18  crashed=1  eps=0.050
+step=  14561  return= 23.98  len=30  crashed=0  eps=0.050
+step=  14591  return= 23.70  len=30  crashed=0  eps=0.050
+step=  14621  return= 24.03  len=30  crashed=0  eps=0.050
+step=  14649  return= 24.76  len=28  crashed=1  eps=0.050
+step=  14679  return= 25.18  len=30  crashed=0  eps=0.050
+step=  14709  return= 24.51  len=30  crashed=0  eps=0.050
+step=  14718  return=  7.34  len= 9  crashed=1  eps=0.050
+step=  14748  return= 23.75  len=30  crashed=0  eps=0.050
+step=  14778  return= 27.00  len=30  crashed=0  eps=0.050
+step=  14792  return= 12.50  len=14  crashed=1  eps=0.050
+step=  14822  return= 23.40  len=30  crashed=0  eps=0.050
+step=  14832  return=  8.08  len=10  crashed=1  eps=0.050
+step=  14862  return= 25.45  len=30  crashed=0  eps=0.050
+step=  14892  return= 25.32  len=30  crashed=0  eps=0.050
+step=  14922  return= 23.09  len=30  crashed=0  eps=0.050
+step=  14952  return= 25.33  len=30  crashed=0  eps=0.050
+step=  14982  return= 23.13  len=30  crashed=0  eps=0.050
+step=  15012  return= 24.40  len=30  crashed=0  eps=0.050
+step=  15021  return=  7.48  len= 9  crashed=1  eps=0.050
+step=  15051  return= 25.68  len=30  crashed=0  eps=0.050
+step=  15081  return= 24.98  len=30  crashed=0  eps=0.050
+step=  15111  return= 25.05  len=30  crashed=0  eps=0.050
+step=  15141  return= 23.69  len=30  crashed=0  eps=0.050
+step=  15165  return= 17.59  len=24  crashed=1  eps=0.050
+step=  15175  return=  7.98  len=10  crashed=1  eps=0.050
+step=  15205  return= 24.78  len=30  crashed=0  eps=0.050
+step=  15226  return= 15.43  len=21  crashed=1  eps=0.050
+step=  15256  return= 24.02  len=30  crashed=0  eps=0.050
+step=  15286  return= 26.02  len=30  crashed=0  eps=0.050
+step=  15297  return=  9.91  len=11  crashed=1  eps=0.050
+step=  15310  return= 11.21  len=13  crashed=1  eps=0.050
+step=  15340  return= 26.62  len=30  crashed=0  eps=0.050
+step=  15357  return= 12.92  len=17  crashed=1  eps=0.050
+step=  15366  return=  7.21  len= 9  crashed=1  eps=0.050
+step=  15375  return=  7.93  len= 9  crashed=1  eps=0.050
+step=  15385  return=  8.35  len=10  crashed=1  eps=0.050
+step=  15392  return=  6.01  len= 7  crashed=1  eps=0.050
+step=  15396  return=  2.95  len= 4  crashed=1  eps=0.050
+step=  15426  return= 24.30  len=30  crashed=0  eps=0.050
+step=  15442  return= 14.44  len=16  crashed=1  eps=0.050
+step=  15463  return= 16.75  len=21  crashed=1  eps=0.050
+step=  15493  return= 24.08  len=30  crashed=0  eps=0.050
+step=  15510  return= 15.18  len=17  crashed=1  eps=0.050
+step=  15530  return= 14.69  len=20  crashed=1  eps=0.050
+step=  15543  return= 10.28  len=13  crashed=1  eps=0.050
+step=  15573  return= 23.35  len=30  crashed=0  eps=0.050
+step=  15602  return= 22.63  len=29  crashed=1  eps=0.050
+step=  15632  return= 25.76  len=30  crashed=0  eps=0.050
+step=  15640  return=  6.40  len= 8  crashed=1  eps=0.050
+step=  15670  return= 22.05  len=30  crashed=0  eps=0.050
+step=  15700  return= 22.55  len=30  crashed=0  eps=0.050
+step=  15723  return= 21.11  len=23  crashed=1  eps=0.050
+step=  15738  return= 10.85  len=15  crashed=1  eps=0.050
+step=  15745  return=  5.78  len= 7  crashed=1  eps=0.050
+step=  15775  return= 27.32  len=30  crashed=0  eps=0.050
+step=  15805  return= 22.79  len=30  crashed=0  eps=0.050
+step=  15835  return= 25.01  len=30  crashed=0  eps=0.050
+step=  15862  return= 23.53  len=27  crashed=1  eps=0.050
+step=  15892  return= 25.02  len=30  crashed=0  eps=0.050
+step=  15922  return= 25.21  len=30  crashed=0  eps=0.050
+step=  15952  return= 24.29  len=30  crashed=0  eps=0.050
+step=  15961  return=  7.45  len= 9  crashed=1  eps=0.050
+step=  15965  return=  3.18  len= 4  crashed=1  eps=0.050
+step=  15995  return= 27.22  len=30  crashed=0  eps=0.050
+step=  16014  return= 15.56  len=19  crashed=1  eps=0.050
+step=  16044  return= 25.28  len=30  crashed=0  eps=0.050
+step=  16050  return=  4.40  len= 6  crashed=1  eps=0.050
+step=  16062  return=  9.81  len=12  crashed=1  eps=0.050
+step=  16092  return= 27.26  len=30  crashed=0  eps=0.050
+step=  16122  return= 23.52  len=30  crashed=0  eps=0.050
+step=  16152  return= 24.62  len=30  crashed=0  eps=0.050
+step=  16163  return=  8.33  len=11  crashed=1  eps=0.050
+step=  16193  return= 22.45  len=30  crashed=0  eps=0.050
+step=  16223  return= 22.90  len=30  crashed=0  eps=0.050
+step=  16253  return= 22.79  len=30  crashed=0  eps=0.050
+step=  16280  return= 22.09  len=27  crashed=1  eps=0.050
+step=  16284  return=  2.95  len= 4  crashed=1  eps=0.050
+step=  16297  return= 11.51  len=13  crashed=1  eps=0.050
+step=  16302  return=  3.98  len= 5  crashed=1  eps=0.050
+step=  16332  return= 25.88  len=30  crashed=0  eps=0.050
+step=  16340  return=  6.46  len= 8  crashed=1  eps=0.050
+step=  16351  return=  9.35  len=11  crashed=1  eps=0.050
+step=  16381  return= 27.21  len=30  crashed=0  eps=0.050
+step=  16396  return= 12.65  len=15  crashed=1  eps=0.050
+step=  16421  return= 19.88  len=25  crashed=1  eps=0.050
+step=  16439  return= 15.88  len=18  crashed=1  eps=0.050
+step=  16469  return= 25.31  len=30  crashed=0  eps=0.050
+step=  16486  return= 15.25  len=17  crashed=1  eps=0.050
+step=  16516  return= 27.46  len=30  crashed=0  eps=0.050
+step=  16546  return= 25.06  len=30  crashed=1  eps=0.050
+step=  16556  return=  8.48  len=10  crashed=1  eps=0.050
+step=  16560  return=  2.81  len= 4  crashed=1  eps=0.050
+step=  16590  return= 25.85  len=30  crashed=0  eps=0.050
+step=  16620  return= 23.86  len=30  crashed=0  eps=0.050
+step=  16650  return= 24.42  len=30  crashed=0  eps=0.050
+step=  16680  return= 24.22  len=30  crashed=0  eps=0.050
+step=  16698  return= 16.01  len=18  crashed=1  eps=0.050
+step=  16709  return=  8.97  len=11  crashed=1  eps=0.050
+step=  16739  return= 25.98  len=30  crashed=0  eps=0.050
+step=  16769  return= 21.35  len=30  crashed=0  eps=0.050
+step=  16799  return= 26.12  len=30  crashed=0  eps=0.050
+step=  16829  return= 26.10  len=30  crashed=0  eps=0.050
+step=  16859  return= 24.85  len=30  crashed=0  eps=0.050
+step=  16882  return= 18.65  len=23  crashed=1  eps=0.050
+step=  16904  return= 17.03  len=22  crashed=1  eps=0.050
+step=  16934  return= 27.58  len=30  crashed=0  eps=0.050
+step=  16964  return= 22.02  len=30  crashed=0  eps=0.050
+step=  16994  return= 28.25  len=30  crashed=0  eps=0.050
+step=  17024  return= 25.88  len=30  crashed=0  eps=0.050
+step=  17032  return=  5.97  len= 8  crashed=1  eps=0.050
+step=  17057  return= 17.85  len=25  crashed=1  eps=0.050
+step=  17076  return= 13.59  len=19  crashed=1  eps=0.050
+step=  17106  return= 23.85  len=30  crashed=0  eps=0.050
+step=  17133  return= 21.54  len=27  crashed=1  eps=0.050
+step=  17141  return=  6.65  len= 8  crashed=1  eps=0.050
+step=  17170  return= 22.53  len=29  crashed=1  eps=0.050
+step=  17190  return= 16.63  len=20  crashed=1  eps=0.050
+step=  17205  return= 13.75  len=15  crashed=1  eps=0.050
+step=  17228  return= 17.63  len=23  crashed=1  eps=0.050
+step=  17250  return= 16.43  len=22  crashed=1  eps=0.050
+step=  17280  return= 26.49  len=30  crashed=0  eps=0.050
+step=  17299  return= 15.15  len=19  crashed=1  eps=0.050
+step=  17328  return= 25.58  len=29  crashed=1  eps=0.050
+step=  17337  return=  7.43  len= 9  crashed=1  eps=0.050
+step=  17367  return= 27.38  len=30  crashed=0  eps=0.050
+step=  17393  return= 23.89  len=26  crashed=1  eps=0.050
+step=  17406  return= 10.30  len=13  crashed=1  eps=0.050
+step=  17421  return= 13.51  len=15  crashed=1  eps=0.050
+step=  17451  return= 25.25  len=30  crashed=0  eps=0.050
+step=  17480  return= 24.18  len=29  crashed=1  eps=0.050
+step=  17510  return= 24.42  len=30  crashed=0  eps=0.050
+step=  17529  return= 16.45  len=19  crashed=1  eps=0.050
+step=  17553  return= 21.88  len=24  crashed=1  eps=0.050
+step=  17566  return= 11.78  len=13  crashed=1  eps=0.050
+step=  17596  return= 26.86  len=30  crashed=0  eps=0.050
+step=  17613  return= 15.27  len=17  crashed=1  eps=0.050
+step=  17643  return= 23.52  len=30  crashed=0  eps=0.050
+step=  17673  return= 25.55  len=30  crashed=0  eps=0.050
+step=  17696  return= 17.71  len=23  crashed=1  eps=0.050
+step=  17719  return= 17.33  len=23  crashed=1  eps=0.050
+step=  17745  return= 24.53  len=26  crashed=1  eps=0.050
+step=  17772  return= 22.58  len=27  crashed=1  eps=0.050
+step=  17776  return=  2.85  len= 4  crashed=1  eps=0.050
+step=  17783  return=  5.10  len= 7  crashed=1  eps=0.050
+step=  17806  return= 21.03  len=23  crashed=1  eps=0.050
+step=  17813  return=  6.05  len= 7  crashed=1  eps=0.050
+step=  17843  return= 24.94  len=30  crashed=0  eps=0.050
+step=  17847  return=  2.85  len= 4  crashed=1  eps=0.050
+step=  17857  return=  8.17  len=10  crashed=1  eps=0.050
+step=  17887  return= 26.09  len=30  crashed=0  eps=0.050
+step=  17897  return=  8.58  len=10  crashed=1  eps=0.050
+step=  17917  return= 16.65  len=20  crashed=1  eps=0.050
+step=  17929  return= 10.47  len=12  crashed=1  eps=0.050
+step=  17954  return= 22.98  len=25  crashed=1  eps=0.050
+step=  17984  return= 27.55  len=30  crashed=0  eps=0.050
+step=  18000  return= 13.36  len=16  crashed=1  eps=0.050
+step=  18010  return=  7.68  len=10  crashed=1  eps=0.050
+step=  18031  return= 17.75  len=21  crashed=1  eps=0.050
+step=  18061  return= 24.93  len=30  crashed=0  eps=0.050
+step=  18070  return=  7.28  len= 9  crashed=1  eps=0.050
+step=  18085  return= 11.70  len=15  crashed=1  eps=0.050
+step=  18115  return= 25.25  len=30  crashed=0  eps=0.050
+step=  18145  return= 23.48  len=30  crashed=0  eps=0.050
+step=  18175  return= 24.32  len=30  crashed=0  eps=0.050
+step=  18188  return= 10.59  len=13  crashed=1  eps=0.050
+step=  18202  return= 12.68  len=14  crashed=1  eps=0.050
+step=  18216  return= 10.81  len=14  crashed=1  eps=0.050
+step=  18240  return= 20.60  len=24  crashed=1  eps=0.050
+step=  18256  return= 13.78  len=16  crashed=1  eps=0.050
+step=  18262  return=  4.71  len= 6  crashed=1  eps=0.050
+step=  18277  return= 13.18  len=15  crashed=1  eps=0.050
+step=  18286  return=  7.94  len= 9  crashed=1  eps=0.050
+step=  18306  return= 16.68  len=20  crashed=1  eps=0.050
+step=  18336  return= 25.38  len=30  crashed=0  eps=0.050
+step=  18366  return= 28.14  len=30  crashed=0  eps=0.050
+step=  18396  return= 24.21  len=30  crashed=0  eps=0.050
+step=  18410  return=  9.49  len=14  crashed=1  eps=0.050
+step=  18423  return= 10.83  len=13  crashed=1  eps=0.050
+step=  18442  return= 17.41  len=19  crashed=1  eps=0.050
+step=  18456  return= 12.11  len=14  crashed=1  eps=0.050
+step=  18482  return= 20.03  len=26  crashed=1  eps=0.050
+step=  18493  return=  9.63  len=11  crashed=1  eps=0.050
+step=  18522  return= 25.34  len=29  crashed=1  eps=0.050
+step=  18552  return= 24.80  len=30  crashed=0  eps=0.050
+step=  18575  return= 20.79  len=23  crashed=1  eps=0.050
+step=  18605  return= 28.60  len=30  crashed=0  eps=0.050
+step=  18624  return= 16.88  len=19  crashed=1  eps=0.050
+step=  18637  return= 12.00  len=13  crashed=1  eps=0.050
+step=  18647  return=  8.12  len=10  crashed=1  eps=0.050
+step=  18656  return=  8.00  len= 9  crashed=1  eps=0.050
+step=  18686  return= 26.80  len=30  crashed=0  eps=0.050
+step=  18710  return= 18.84  len=24  crashed=1  eps=0.050
+step=  18734  return= 21.58  len=24  crashed=1  eps=0.050
+step=  18742  return=  6.18  len= 8  crashed=1  eps=0.050
+step=  18754  return=  9.38  len=12  crashed=1  eps=0.050
+step=  18784  return= 28.24  len=30  crashed=0  eps=0.050
+step=  18797  return= 11.71  len=13  crashed=1  eps=0.050
+step=  18825  return= 23.14  len=28  crashed=1  eps=0.050
+step=  18834  return=  7.26  len= 9  crashed=1  eps=0.050
+step=  18837  return=  2.08  len= 3  crashed=1  eps=0.050
+step=  18867  return= 28.21  len=30  crashed=0  eps=0.050
+step=  18872  return=  3.91  len= 5  crashed=1  eps=0.050
+step=  18877  return=  3.91  len= 5  crashed=1  eps=0.050
+step=  18907  return= 29.03  len=30  crashed=0  eps=0.050
+step=  18911  return=  3.02  len= 4  crashed=1  eps=0.050
+step=  18941  return= 27.43  len=30  crashed=0  eps=0.050
+step=  18962  return= 18.88  len=21  crashed=1  eps=0.050
+step=  18992  return= 27.91  len=30  crashed=0  eps=0.050
+step=  19022  return= 24.51  len=30  crashed=0  eps=0.050
+step=  19052  return= 28.81  len=30  crashed=0  eps=0.050
+step=  19059  return=  5.61  len= 7  crashed=1  eps=0.050
+step=  19067  return=  6.45  len= 8  crashed=1  eps=0.050
+step=  19086  return= 17.95  len=19  crashed=1  eps=0.050
+step=  19116  return= 27.62  len=30  crashed=0  eps=0.050
+step=  19122  return=  4.28  len= 6  crashed=1  eps=0.050
+step=  19140  return= 15.43  len=18  crashed=1  eps=0.050
+step=  19170  return= 27.16  len=30  crashed=0  eps=0.050
+step=  19192  return= 18.01  len=22  crashed=1  eps=0.050
+step=  19222  return= 23.22  len=30  crashed=0  eps=0.050
+step=  19234  return= 10.46  len=12  crashed=1  eps=0.050
+step=  19264  return= 24.91  len=30  crashed=0  eps=0.050
+step=  19285  return= 16.00  len=21  crashed=1  eps=0.050
+step=  19313  return= 23.63  len=28  crashed=1  eps=0.050
+step=  19322  return=  7.74  len= 9  crashed=1  eps=0.050
+step=  19328  return=  4.68  len= 6  crashed=1  eps=0.050
+step=  19345  return= 15.14  len=17  crashed=1  eps=0.050
+step=  19357  return= 10.75  len=12  crashed=1  eps=0.050
+step=  19372  return= 12.42  len=15  crashed=1  eps=0.050
+step=  19382  return=  8.58  len=10  crashed=1  eps=0.050
+step=  19404  return= 19.64  len=22  crashed=1  eps=0.050
+step=  19414  return=  8.60  len=10  crashed=1  eps=0.050
+step=  19433  return= 17.63  len=19  crashed=1  eps=0.050
+step=  19463  return= 23.58  len=30  crashed=0  eps=0.050
+step=  19493  return= 24.82  len=30  crashed=0  eps=0.050
+step=  19507  return= 11.15  len=14  crashed=1  eps=0.050
+step=  19526  return= 16.82  len=19  crashed=1  eps=0.050
+step=  19544  return= 15.18  len=18  crashed=1  eps=0.050
+step=  19574  return= 22.69  len=30  crashed=0  eps=0.050
+step=  19578  return=  3.05  len= 4  crashed=1  eps=0.050
+step=  19608  return= 26.92  len=30  crashed=0  eps=0.050
+step=  19614  return=  4.88  len= 6  crashed=1  eps=0.050
+step=  19637  return= 20.58  len=23  crashed=1  eps=0.050
+step=  19667  return= 26.68  len=30  crashed=0  eps=0.050
+step=  19680  return= 11.64  len=13  crashed=1  eps=0.050
+step=  19710  return= 23.55  len=30  crashed=0  eps=0.050
+step=  19740  return= 24.38  len=30  crashed=0  eps=0.050
+step=  19755  return= 12.90  len=15  crashed=1  eps=0.050
+step=  19785  return= 26.29  len=30  crashed=0  eps=0.050
+step=  19794  return=  7.58  len= 9  crashed=1  eps=0.050
+step=  19824  return= 26.39  len=30  crashed=0  eps=0.050
+step=  19854  return= 26.65  len=30  crashed=0  eps=0.050
+step=  19871  return= 15.62  len=17  crashed=1  eps=0.050
+step=  19901  return= 25.85  len=30  crashed=0  eps=0.050
+step=  19926  return= 22.22  len=25  crashed=1  eps=0.050
+step=  19944  return= 15.28  len=18  crashed=1  eps=0.050
+step=  19974  return= 24.85  len=30  crashed=0  eps=0.050
+Listo en 1198s -> runs/dqn_highway__s2
